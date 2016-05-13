@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tmacciplavticap01plaugoog_0007.png"; bbox 0 0 2310 3974; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 388 992 773 1094">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 388 992 773 1094">
+     <span class='ocr_line' id='line_1_1' title="bbox 388 992 773 1094; baseline -0.01 0"><span class='ocrx_word' id='word_1_1' title='bbox 388 997 426 1094; x_wconf 76' lang='grc' dir='ltr'><strong>Τ.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 452 995 589 1094; x_wconf 72' lang='lat' dir='ltr'>mccl</span> <span class='ocrx_word' id='word_1_3' title='bbox 617 992 773 1092; x_wconf 67' lang='lat' dir='ltr'><strong>Phffll</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 222 1236 1110 1432">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 222 1236 1110 1432">
+     <span class='ocr_line' id='line_1_2' title="bbox 222 1236 1110 1432; baseline -0.007 0"><span class='ocrx_word' id='word_1_4' title='bbox 222 1236 1110 1432; x_wconf 44' lang='lat' dir='ltr'><strong>c&#39;Avatp</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 478 1696 688 1712">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 478 1696 688 1712">
+     <span class='ocr_line' id='line_1_3' title="bbox 478 1696 688 1712; baseline 0.01 -6"><span class='ocrx_word' id='word_1_5' title='bbox 478 1696 688 1712; x_wconf 63' lang='lat' dir='ltr'><strong>*nn—un·-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 290 1980 884 2065">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 290 1980 884 2065">
+     <span class='ocr_line' id='line_1_4' title="bbox 290 1980 884 2065; baseline 0 -11"><span class='ocrx_word' id='word_1_6' title='bbox 290 1989 473 2054; x_wconf 72' lang='lat' dir='ltr'><strong>GRAEcA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 508 1980 884 2065; x_wconf 74' lang='lat' dir='ltr'><strong>[ANAXANDRIDH.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1160 3974">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1160 3974">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1160 3974; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1160 3974; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
